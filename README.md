@@ -2,7 +2,9 @@
 
 I graduated as a Bachelor of Applied Mathematics and Computational and I am currently working with web development, mostly Frontend, using React and other javascript-centric technologies.
 
+<!--
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lukazovic&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=lukazovic&amp;layout=compact&amp;theme=tokyonight)
+-->
 
 - 🔭 I’m currently working on [Codeminer42](https://www.codeminer42.com/)
 - 💬 Ask me about **JavaScript, HTML, CSS, ReactJS and NodeJS**
