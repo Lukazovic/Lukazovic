@@ -6,7 +6,7 @@ I graduated as a Bachelor of Applied Mathematics and Computational and I am curr
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lukazovic&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=lukazovic&amp;layout=compact&amp;theme=tokyonight)
 -->
 
-- 🔭 I’m currently working on [Codeminer42](https://www.codeminer42.com/)
+- 🔭 I’m currently working on [Navalia](https://www.navalia.io/)
 - 💬 Ask me about **JavaScript, HTML, CSS, ReactJS and NodeJS**
 - 🌱 I’m currently learning **Ruby and Ruby on Rails**
 - 👯 I’m looking to collaborate on open source projects
